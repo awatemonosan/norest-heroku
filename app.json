@@ -1,0 +1,7 @@
+{
+  "name": "unrest",
+  "description": "Rest is for the weak",
+  "repository": "https://github.com/awatemonosan/unrest-heroku",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
